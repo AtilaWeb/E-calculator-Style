@@ -1,0 +1,130 @@
+		.containercal{
+		 margin-left: auto;
+		 margin-right: auto;
+		 margin-top: 20px;
+		 margin-bottom: 30px;
+		 width: 530px;
+		 font-family: calibri !important;
+		 color: black;
+		}
+
+		#selectstyle{
+		 font-weight: bold !important;
+		 width: 530px;
+		}
+
+		#selectstyle option{
+		 font-family: calibri !important;
+		 padding: auto;
+		 font-size: 16px;
+		 font-weight: bold;
+		}
+
+		.inputstyle{
+		 width: 150px;
+		 height: 25px;
+		 padding: 5px;
+		 padding-right: 0px;
+		 border-radius: 5px;
+		 border-color: black;
+		 text-align: center;
+		 font-family: calibri !important;
+		 font-weight: bold;
+		 font-size: 15px;
+		}
+
+		#tablestyle{
+		 margin-left: auto;
+		 margin-right: auto;
+		 width: 100%; 
+		 font-family: calibri !important;
+		 text-align: center;
+		}
+
+		#fieldsetstyle{
+		 height: 300px; 
+		 margin-bottom: 20px;
+		}
+
+		.tdcalc1{
+		 font-family: calibri !important;
+		 font-size: 17px;
+		}
+
+		.tdcalc2{
+		 font-family: calibri !important;
+		 font-size: 18px;
+		 padding: 6px 9px;
+		}
+
+		button{
+		 width: 157px;
+		 height: 25px;
+		 background-color: #DC1F27;
+		 color: white;
+		}
+
+		button:hover{
+		 background-color: #024993;
+		}
+
+		input[type=text]:disabled {
+  		 background: #90EE90;
+		}
+
+		#i_style{
+		 font-size: 13px;
+		}
+		@media only screen and (max-width: 700px) {
+    	.containercal{
+		 margin-left: auto;
+		 margin-right: auto;
+		 margin-top: 4px;
+		 margin-bottom: 20px;
+		 width: 320px;
+		 font-family: calibri !important;
+		 color: black;
+		}
+
+		.inputstyle{
+		 width: 120px;
+		 height: 20px;
+		 font-family: calibri !important;
+		 font-size: 10px;
+		}
+
+		button{
+		 width: 120px;
+		 height: 25px;
+		}
+
+		#tablestyle{
+		 width: 100%; 
+		}
+
+		#selectstyle{
+		 width: 320px;
+		 height: 30px;
+		 font-size: 14px !important;
+		 font-family: calibri !important;
+		}
+
+		#fieldsetstyle{
+		 height: 300px;
+		 margin-bottom: 0px; 
+		}
+
+		#i_style{
+		 font-size: 10px;
+		}
+
+		.tdcalc1{
+		 font-size: 13px;
+		}
+		.tdcalc2{
+		 padding: 6px 8px;	
+		}
+		#selectstyle option{
+		 font-size: 14px;
+		}
+	}
